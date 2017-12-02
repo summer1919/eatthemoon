@@ -2,6 +2,13 @@
 @import url(//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css);
 @import url(http://fonts.googleapis.com/css?family=Open+Sans:300,400,700);
 @import url(http://fonts.googleapis.com/css?family=Yesteryear);
+
+/*========================================================
+                      Custom Styles
+=========================================================*/
+.parallax h2 {
+  color: white;
+}
 /*========================================================
                       Main Styles
 =========================================================*/
@@ -479,7 +486,7 @@ a[href^="tel:"] {
 .parallax1 {
   text-align: center;
   background-color: #FFF;
-  background-image: url(../images/parallax01.jpg);
+  background-image: url(../images/myPictures/104.jpg);
   padding: 132px 0 127px;
 }
 .parallax2 {
